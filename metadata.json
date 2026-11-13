@@ -1,0 +1,6 @@
+{
+  "name": "المضيفة — مطبخ المأكولات الشرقية المصرية",
+  "description": "مطعم ومطبخ المضيفة للأكل الشرقي المصري الأصيل: طواجن الفخار، المشويات على الفحم، الحمام المحشي، الفتة، الكشري، والحلويات الشرقية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
